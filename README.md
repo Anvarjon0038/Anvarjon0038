@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Anvarjon Toshmatov</h1>
-<h3 align="center">👨‍💻 Frontend Developer | Python Backend Developer | UX/UI Designer 
-  🌍 Based in Khujand, Tajikistan 
+<h3 align="center">👨‍💻 Frontend Developer | Python Backend Developer | UX/UI Designer <br>
+  🌍 Based in Khujand, Tajikistan <br>
   🎓 Student and IT enthusiast with a deep interest in programming and design</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=anvarjon0038&label=Profile%20views&color=0e75b6&style=flat" alt="anvarjon0038" /> </p>
