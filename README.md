@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Anvarjon Toshmatov</h1>
-<h3 align="center">I started my journey in IT with Frontend development, mastering technologies like HTML, CSS, and JavaScript. Later, I moved on to Python programming, working with frameworks such as Django and Flask. Additionally, I am passionate about UX/UI design, using Figma to create user-friendly and stylish interfaces</h3>
+<h3 align="center">👨‍💻 Frontend Developer | Python Backend Developer | UX/UI Designer 🌍 Based in Khujand, Tajikistan 🎓 Student and IT enthusiast with a deep interest in programming and design</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=anvarjon0038&label=Profile%20views&color=0e75b6&style=flat" alt="anvarjon0038" /> </p>
 
@@ -9,9 +9,9 @@
 
 - 🌱 I’m currently learning **React.js to further enhance my Frontend skills and build dynamic web applications**
 
-- 👨‍💻 All of my projects are available at [https://github.com/Anvarjon0038](https://github.com/Anvarjon0038)
+- 📝 I regularly write articles on [IT with A.T](https://t.me/it_with_AT)
 
-- 📝 I regularly write articles on [https://t.me/it_with_AT](https://t.me/it_with_AT)
+- 👨‍💻 All of my projects are available at [Anvarjon0038](https://github.com/Anvarjon0038)
 
 - 💬 Ask me about **HTML,CSS,JavaScript,React,Python,Django, Flask,Aiogram**
 
