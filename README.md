@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Anvarjon Toshmatov</h1>
 <h3 align="center">👨‍💻 Frontend Developer | Python Backend Developer | UX/UI Designer <br>
   🌍 Based in Moscow, Russia <br>
-  🎓 Student, Exploring code, creating interfaces, shaping ideas.</h3>
+  🎓 Student, Exploring code, creating interfaces, shaping ideas</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=anvarjon0038&label=Profile%20views&color=0e75b6&style=flat" alt="anvarjon0038" /> </p>
 
